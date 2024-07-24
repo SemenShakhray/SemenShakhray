@@ -22,19 +22,12 @@
 - 🌱 I recently completed my training at Yandex Practicum and am continuing to improve my skills
 
 ### :hammer_and_wrench: Languages and Tools :
-   <a href="https://go.dev/">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="60" height="60"/> &nbsp; 
-     </a>
-      <a href="https://github.com/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp; 
-         </a>
-        <a href="https://www.sqlite.org/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" **alt="sqlite" width="60" height="60"/>&nbsp
-           <a href="https://www.postgresql.org/">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" **alt="Postgresql" width="50" height="50"/> &nbsp
-              <a href="https://www.docker.com/"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="dockker" **alt="dockker" width="50" height="50"/> &nbsp
-                <a href="https://kernel.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" **alt="sqlite" width="60" height="60"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" **alt="Postgresql" width="50" height="50"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="dockker" **alt="dockker" width="50" height="50"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="dockker" **alt="dockker" width="50" height="50"/>
 </div>
 
