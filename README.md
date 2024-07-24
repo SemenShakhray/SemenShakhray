@@ -7,9 +7,10 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ5a2Q4MmJocXQ1NWpra2FxcjFwdTByenE1MGRkc2phejhsODZqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif" width="100"/>
  <div id="badges">
-  <a href="https://t.me/semenshakhray">
+   <a
+  href="https://t.me/semenshakhray">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
+   </a>
    <a href="https://vk.com/semen995">
   <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
 </div>
@@ -21,15 +22,20 @@
 - 🌱 I recently completed my training at Yandex Practicum and am continuing to improve my skills
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
    <a href="https://go.dev/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="60" height="60"/> &nbsp; 
+     </a>
       <a href="https://github.com/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" **alt="sqlite" width="60" height="60"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" **alt="Postgresql" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="dockker" **alt="dockker" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="dockker" **alt="dockker" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp; 
+         </a>
+        <a href="https://www.sqlite.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" **alt="sqlite" width="60" height="60"/>&nbsp
+           <a href="https://www.postgresql.org/">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" **alt="Postgresql" width="50" height="50"/> &nbsp
+              <a href="https://www.docker.com/"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="dockker" **alt="dockker" width="50" height="50"/> &nbsp
+                <a href="https://kernel.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="dockker" **alt="dockker" width="50" height="50"/>
 </div>
 
 ### 📈 My stats:
