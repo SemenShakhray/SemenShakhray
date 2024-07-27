@@ -28,7 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" **alt="sqlite" width="60" height="60"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" **alt="Postgresql" width="50" height="50"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="dockker" **alt="dockker" width="50" height="50"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="dockker" **alt="dockker" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="50" height="50"/>
 </div>
 
 ### 📈 My stats:
