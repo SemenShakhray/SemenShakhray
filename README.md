@@ -19,7 +19,6 @@
      
 ### :man_technologist: About Me :
 - 🐿️ I’m Go-developer
-- 🌱 I recently completed my training at Yandex Practicum and am continuing to improve my skills
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
